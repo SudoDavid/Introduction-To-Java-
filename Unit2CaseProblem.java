@@ -1,7 +1,7 @@
 import javax.swing.JOptionPane;
 import java.util.Scanner; 
 
-class Unit1CaseProblem {
+class Unit2CaseProblem {
 /*Carly's Catering provides meals for parties and special events. 
 Write a program that prompts the user for the number of guests attending an 
 event and then computes the total price, which is $35 per person. 
